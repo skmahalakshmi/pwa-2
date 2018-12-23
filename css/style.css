@@ -1,0 +1,27 @@
+header{
+	background-color: #7B78EA;
+	padding:1%;
+	border:1px solid #3E3BA9;
+	color:#fff;
+	text-align: center;
+	font-weight:550;
+}
+
+a{
+	text-decoration: none;
+	color:#fff;
+}
+
+button{
+	margin:1%;
+	background-color: #7B78EA;
+	padding:1%;
+	border:1px solid #3E3BA9;
+	color:#fff;
+	text-align: center;
+	font-weight:550;
+	box-shadow: 0 8px 6px -6px black;
+}
+input{
+	margin:0.3%;
+}
